@@ -1,0 +1,1 @@
+* * * * * sh /app/minu1215.blog/pull.sh >> /var/log/pull.log 2>&1
