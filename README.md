@@ -1,3 +1,6 @@
 # minu1215.blog
 
-test
+# Run
+```
+docker pull kaz1301/minu1215.blog:0.2.0
+```
